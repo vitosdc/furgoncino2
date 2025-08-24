@@ -1,0 +1,1 @@
+# core/__init__.py# File vuoto - serve per rendere core un package Python# api/__init__.py  # File vuoto - serve per rendere api un package Python
